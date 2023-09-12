@@ -4,7 +4,6 @@
 /* -------------------------------------------------------------------------- */
 
 .home-bgImg-container{
-    background-image: url(../../img/home.jpg);
     @include bgImg(100vh, $pathname1);
 }
 
